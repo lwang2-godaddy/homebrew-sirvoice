@@ -1,6 +1,6 @@
 cask "sirvoice" do
-  version "1.0.25"
-  sha256 "dc6b580532255002a1db5ff664b71d693d8f87d272ee969d6540cff935a5eb8b"
+  version "1.0.26"
+  sha256 "4bc37f0c74327c691eef127b0d63515b723c0935f756165552f1ed9b58c9c174"
 
   url "https://github.com/lwang2-godaddy/sirvoice/releases/download/v#{version}/SirVoice-#{version}.dmg"
   name "SirVoice"
